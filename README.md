@@ -7,8 +7,6 @@
 **A Local AI-Powered YouTube Research Tool**  
 Scrape, transcribe, and chat with YouTube content - 100% local & private
 
-![Demo](https://via.placeholder.com/800x400.png?text=YouTube+Research+Assistant+Demo)
-
 ## 🚀 Features
 
 - 🔍 **YouTube Content Discovery**  
